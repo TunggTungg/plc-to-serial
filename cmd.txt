@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=app_icon.ico --name="PLC_Serial_Dashboard_Pro" main.py
